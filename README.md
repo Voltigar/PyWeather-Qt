@@ -37,7 +37,7 @@ PyWeather-QT uses the [OpenWeatherMap API](https://openweathermap.org/) to fetch
 6. In the app, click on the **'API key'** button
 7. Paste your API key in the dialog box and click **'OK'**
 
-> 💡 **Note:** Your API key is stored locally on a .json file on your computer, the path of the json file is : **C:\Users\[your username]**, the name of the file is **.pyweatherqt_app_config.json**
+> 💡 **Note:** Your API key is stored locally on a .json file on your computer, the path of the json file is : **C:\Users\your username**, the name of the file is **.pyweatherqt_app_config.json**
 
 ---
 
@@ -69,4 +69,5 @@ Contributions, issues, and feature requests are welcome, feel free to check the 
 
 *a project by Voltigar*
 </div>
+
 
