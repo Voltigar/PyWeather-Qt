@@ -12,14 +12,14 @@ This app is more of a proof of concept rather than a fully-fledged application. 
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎨 Clean & Simple Interface
-- 🌍 Real-time Weather Data - Search weather across different cities worldwide
-- 🌐 English and French language Support 
-- 🌡️ Temperature Unit Toggle - Switch between Celsius and Fahrenheit
-- ⚡ Error Handling - Clear and user-friendly error messages
-- 🔐 Your API key is stored locally in a JSON file on your computer
+- Clean & Simple Interface
+- Real-time Weather Data - Search weather across different cities worldwide
+- English and French language Support 
+- Temperature Unit Toggle - Switch between Celsius and Fahrenheit
+- Error Handling - Clear and user-friendly error messages
+- Your API key is stored locally in a JSON file on your computer
 
 ---
 
@@ -46,14 +46,14 @@ PyWeather-QT uses the [OpenWeatherMap API](https://openweathermap.org/) to fetch
 Here are some features planned for future releases: 
 *again, since this is a small side project, i don't know if i'am gonna add all these features*
 
-- 🎬 Animated backgrounds based on weather conditions
-- 🖼️ Replace emojis with SVG/PNG icons or animations
-- ⏰ Auto-refresh weather data every 10 minutes
-- 📜 Search history with delete functionality
-- 🖥️ Desktop widget mode
-- 📑 Multiple tabs to view weather in different cities simultaneously
-- 📊 7-day forecast with temperature graphs
-- 🌍 World map view to see live weather globally
+- Animated backgrounds based on weather conditions
+- Replace emojis with SVG/PNG icons or animations
+- Auto-refresh weather data every 10 minutes
+- Search history with delete functionality
+- Desktop widget mode
+- Multiple tabs to view weather in different cities simultaneously
+- 7-day forecast with temperature graphs
+- World map view to see live weather globally
 
 ---
 
@@ -63,7 +63,7 @@ Here are some features planned for future releases:
 <img width="796" height="721" alt="image" src="https://github.com/user-attachments/assets/2ffaa718-6cad-4837-a145-48ae635dc954" />
 
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome, feel free to check the [issues page](https://github.com/Voltigar/PyWeather-QT/issues).
 
