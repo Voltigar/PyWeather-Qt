@@ -1,0 +1,4 @@
+First, when you open the application, it will tell you that you don't have an API. I can't give you mine, so you'll have to get your own API from the openweathermap website.
+
+Then, once you have your API key, click on the “API key” button at the bottom, and an input dialog box will appear asking you to enter your API key. Enter your API key in the input dialog box, then click OK. A message will appear telling you that your API key has been saved. It will be stored in a .json file (.pyweatherqt_app_config.json) located in this directory:
+C:\Users\[username] <---- This is on your hard drive where your operating system is installed.

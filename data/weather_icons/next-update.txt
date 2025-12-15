@@ -1,0 +1,3 @@
+This will replace the emoji and will be (probably) added for a futur update
+
+The weather icons will be in .svg format
