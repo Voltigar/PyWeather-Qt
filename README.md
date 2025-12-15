@@ -46,14 +46,14 @@ PyWeather-QT uses the [OpenWeatherMap API](https://openweathermap.org/) to fetch
 Here are some features planned for future releases: 
 *again, since this is a small side project, i don't know if i'am gonna add all these features*
 
-🎬 **Animated backgrounds** based on weather conditions
-🖼️ **Replace emojis** with SVG/PNG icons or animations
-⏰ **Auto-refresh** weather data every 10 minutes
-📜 **Search history** with delete functionality
-🖥️ **Desktop widget** mode
-📑 **Multiple tabs** to view weather in different cities simultaneously
-📊 **7-day forecast** with temperature graphs
-🌍 **World map view** to see live weather globally
+- 🎬 Animated backgrounds based on weather conditions
+- 🖼️ Replace emojis with SVG/PNG icons or animations
+- ⏰ Auto-refresh weather data every 10 minutes
+- 📜 Search history with delete functionality
+- 🖥️ Desktop widget mode
+- 📑 Multiple tabs to view weather in different cities simultaneously
+- 📊 7-day forecast with temperature graphs
+- 🌍 World map view to see live weather globally
 
 ---
 
@@ -67,5 +67,6 @@ Here are some features planned for future releases:
 
 Contributions, issues, and feature requests are welcome, feel free to check the [issues page](https://github.com/Voltigar/PyWeather-QT/issues).
 
-a project by Voltigar
+*a project by Voltigar*
 </div>
+
